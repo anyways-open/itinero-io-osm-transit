@@ -18,3 +18,15 @@ Itinero-Transit/timetables-for-testing-2018-10-02/*
 **/*.mvt
 
 samples/**/output/*
+.idea/.gitignore
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/.gitignore
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/.name
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/contentModel.xml
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/indexLayout.xml
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/modules.xml
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/projectSettingsUpdater.xml
+.idea/.idea.Itinero.IO.Osm.Transit/.idea/vcs.xml
+.idea/.idea.Itinero.IO.Osm.Transit/riderModule.iml
+test/Itinero.IO.Osm.Transit.Tests.Functional/output.dbf
+test/Itinero.IO.Osm.Transit.Tests.Functional/output.shp
+test/Itinero.IO.Osm.Transit.Tests.Functional/output.shx

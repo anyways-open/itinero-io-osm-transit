@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Itinero.IO.Osm.Transit\Itinero.IO.Osm.Transit.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Itinero.IO.Shape" Version="1.6.0-pre029" />
+  </ItemGroup>
+
 </Project>

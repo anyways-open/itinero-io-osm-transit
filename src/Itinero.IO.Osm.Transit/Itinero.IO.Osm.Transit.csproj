@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>default</LangVersion>
+    <PackageVersion>0.0.1</PackageVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Itinero.IO.Osm" Version="1.6.0-pre029" />
+  </ItemGroup>
 
 </Project>
