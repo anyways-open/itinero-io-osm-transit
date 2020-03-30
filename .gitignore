@@ -16,6 +16,8 @@ Itinero-Transit/timetables-for-testing-2018-10-02/*
 **/*.gtfs.zip
 **/*.zip
 **/*.mvt
+*.osm.bin
+*.md5
 
 samples/**/output/*
 .idea/.gitignore
